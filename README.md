@@ -4,9 +4,9 @@ Protocoles pour le module de suivi générique de géonature : https://github.co
 
 ## Installation d'un protocole
 
-Ce dépôt doit être téléchargé dans le répertoire /contrib de votre l'installation du module.
+Ce dépôt doit être téléchargé dans le répertoire `/contrib` de votre l'installation du module.
 
-Le chemin est probablement le suivant : /home/geonatureadmin/gn_modules_monitoring/contrib
+Le chemin est probablement le suivant : `/home/geonatureadmin/gn_modules_monitoring/contrib`
 
 Vous devez activer le `virtualenv` en tant que `geonatureadmin`, puis vous pouvez installer le protocole :
 
