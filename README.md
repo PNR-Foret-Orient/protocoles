@@ -11,6 +11,6 @@ Le chemin est probablement le suivant : `/home/geonatureadmin/gn_modules_monitor
 Vous devez activer le `virtualenv` en tant que `geonatureadmin`, puis vous pouvez installer le protocole :
 
 ```
-source ~/geonature/backend/venv/gn_modules_monitoring/contrib
+source ~/geonature/backend/venv/bin/activate
 flask monitorings install <mon_chemin_absolu_vers_l_archive>/<protocole> <protocole>
 ```
